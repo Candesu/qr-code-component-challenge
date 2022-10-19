@@ -5,6 +5,7 @@ body{
   background-color: #d6e2f0;
   background-color: hsl(212, 45%, 89%);
   overflow: hidden;
+  align-items:center;
 
 }
 
