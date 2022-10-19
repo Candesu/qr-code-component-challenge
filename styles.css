@@ -1,0 +1,57 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  font-size: 15px;
+  background-color: #d6e2f0;
+  background-color: hsl(212, 45%, 89%);
+  overflow: hidden;
+
+}
+
+p{
+  padding:15px 5px 0 5px;
+}
+
+.sentence1{
+  font-family: 'Outfit', sans-serif;
+  font-weight:700;
+  font-size: 17px;
+  color:#1f3251;
+  color:hsl(218, 44%, 22%);
+  margin-bottom: 0;
+  padding:4px 0 0 0;
+}
+
+.sentence2{
+  font-family:'Outfit', sans-serif;
+  font-weight: 400;
+  color:#7b879d;
+  color:hsl(220, 15%, 55%);
+  margin-top: 0;
+  padding: 10px 0 0 0;
+  font-size: 12px;
+}
+
+.qrcontainer{
+  background-color: white;
+  border-radius:15px;
+  width:250px;
+  height:380px;
+  position:absolute;
+  text-align:center;
+  top:35%;
+  left:50%;
+}
+
+img{
+  height:225px;
+  width:225px;
+  position:relative;
+  top:12px;
+  border-radius: 15px;
+
+}
+
+.attribution{
+  visibility: hidden;
+}
